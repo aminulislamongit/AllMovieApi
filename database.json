@@ -1,125 +1,127 @@
 [
     {
-      "url": "1.jpg",
+      "url": "../allimages/1.jpg",
       "name": "7th Day",
       "lang": "Hindi||Telegu",
       "des": "7th Day (2015) South Indian 720p Hevc",
       "catagory": "south indian"
     },
     {
-      "url": "2.jpg",
+      "url": "../allimages/2.jpg",
       "name": "Ravanasura",
       "lang": "Hindi||Telegu",
       "des": "Ravanasura (2023) South Indian Full Movie 720p Hevc",
       "catagory": "south indian"
     },
     {
-      "url": "3.jpg",
+      "url": "../allimages/3.jpg",
       "name": "Ms Dhoni",
       "lang": "Hindi",
-      "des": "Ms Dhoni (2023) Bollywood Full Movie 720p Hevc",
-      "catagory": "bollywood"
+      "des": "Ravanasura (2023) Bollywood Full Movie 720p Hevc",
+      "catagory": "south indian"
+
     },
     {
-      "url": "4.jpg",
+      "url": "../allimages/4.jpg",
       "name": "2018",
-      "lang": "Hindi||Telegu",
+      "lang": "Hindi",
       "des": "2018 (2023)South indian Full Movie 720p Hevc",
       "catagory": "south indian"
     },
     {
-      "url": "5.jpg",
+      "url": "../allimages/5.jpg",
       "name": "Yavarathna",
-      "lang": "Hindi||Telegu",
+      "lang": "Hindi",
       "des": "Yavarathna(2023) South Indian Full Movie 720p Hevc",
       "catagory": "south indian"
     },
     {
-      "url": "6.jpg",
+      "url": "../allimages/6.jpg",
       "name": "Cold Case",
-      "lang": "Hindi||Telegu",
+      "lang": "Hindi",
       "des": "Coldcase (2023) South Indian Full Movie 720p Hevc",
       "catagory": "south indian"
     },
     {
-      "url": "7.jpg",
+      "url": "../allimages/7.jpg",
       "name": "Lift",
       "lang": "Hindi || Telegu",
       "des": "Lift (2023) South Indian Full Movie 720p Hevc",
       "catagory": "south indian"
     },
     {
-      "url": "8.jpg",
+      "url": "../allimages/8.jpg",
       "name": "Nanna Prakara",
       "lang": "Hindi || Tamil",
       "des": "Nanna Prakara(2023) South Indian Full Movie 720p Hevc",
       "catagory": "south indian"
     },
     {
-      "url": "9.jpg",
+      "url": "../allimages/9.jpg",
       "name": "Super 30",
       "lang": "Hindi",
       "des": "Super 30 (2019) Bollywood Full Movie 720p Hevc",
       "catagory": "bollywood"
+      
     },
     {
-      "url": "10.jpg",
+      "url": "../allimages/10.jpg",
       "name": "Vaathi",
       "lang": "Hindi || Telegu",
       "des": "Vaathi (2023) South Indian Full Movie 720p Hevc",
       "catagory": "south indian"
     },
     {
-      "url": "11.jpg",
+      "url": "../allimages/11.jpg",
       "name": "7:11pm",
       "lang": "Hindi || Telegu",
       "des": "7:11pm (2023) South Indian Full Movie 720p Hevc",
       "catagory": "south indian"
     },
     {
-      "url": "12.jpg",
+      "url": "../allimages/12.jpg",
       "name": "Jailer",
       "lang": "Hindi || Telegu",
       "des": "Jailer (2023) South Indian Full Movie 720p Hevc",
       "catagory": "south indian"
     },
     {
-      "url": "13.jpg",
+      "url": "../allimages/13.jpg",
       "name": "Wanted",
       "lang": "Bengali",
       "des": "Wanted (2010) Bengali Full Movie 720p Hevc",
       "catagory": "Bengali"
     },
     {
-      "url": "14.jpg",
+      "url": "../allimages/14.jpg",
       "name": "Ki kore Toke Bolbo",
       "lang": "Bengali",
       "des": "Ki kore toke bolbo (2016) Bengali Full Movie 720p Hevc",
       "catagory": "Bengali"
     },
     {
-      "url": "15.jpg",
+      "url": "../allimages/15.jpg",
       "name": "Tor Naam",
       "lang": "Bengali",
       "des": "Tor Naam (2016) Bengali Full Movie 720p Hevc",
       "catagory": "Bengali"
     },
     {
-      "url": "16.jpg",
+      "url": "../allimages/16.jpg",
       "name": "100% Love",
       "lang": "Bengali",
       "des": "100% Love (2011) Bengali Full Movie 720p Hevc",
       "catagory": "Bengali"
     },
     {
-      "url": "17.jpg",
+      "url": "../allimages/17.jpg",
       "name": "Khokababu",
       "lang": "Bengali",
       "des": "Khokababu (2011) Bengali Full Movie 720p Hevc",
       "catagory": "Bengali"
     },
     {
-      "url": "18.jpg",
+      "url": "../allimages/18.jpg",
       "name": "Dhamaka",
       "lang": "Hindi || Tamil",
       "des": "Dhamaka (2011) Bengali Full Movie 720p Hevc",
