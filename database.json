@@ -5,7 +5,9 @@
       "lang": "Hindi||Telegu",
       "des": "7th Day (2015) South Indian 720p Hevc",
       "catagory": "south indian",
-      "downloadLink":"https://www.youtube.com/watch?v=lilWu7zehUk&t=12s"
+      "downloadLink":"https://www.youtube.com/watch?v=lilWu7zehUk&t=12s",
+      "moviePoster":"../allimages/7th.jpg"
+
 
     },
     {
@@ -14,17 +16,19 @@
       "lang": "Hindi||Telegu",
       "des": "Ravanasura (2023) South Indian Full Movie 720p Hevc",
       "catagory": "south indian",
-      "downloadLink":"https://www.youtube.com/watch?v=cn0dLikBpBs"
+      "downloadLink":"https://www.youtube.com/watch?v=cn0dLikBpBs",
+      "moviePoster":"../allimages/ravanasura.jpg"
+
 
     },
     {
       "url": "../allimages/3.jpg",
       "name": "Ms Dhoni",
       "lang": "Hindi",
-      "des": "Ravanasura (2023) Bollywood Full Movie 720p Hevc",
+      "des": "Ms Dhoni (2023) Bollywood Full Movie 720p Hevc",
       "catagory": "south indian",
-      "downloadLink":"https://www.youtube.com/watch?v=-hke3ZFiSnc"
-
+      "downloadLink":"https://www.youtube.com/watch?v=-hke3ZFiSnc",
+      "moviePoster":"../allimages/msdhoni.jpg"
 
     },
     {
